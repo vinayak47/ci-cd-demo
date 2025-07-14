@@ -8,6 +8,7 @@ public class HelloController {
 
 	@GetMapping("/hello")
     public String hello() {
+		//hello java
         return "Hello from CI/CD pipeline!";
     }
 }
