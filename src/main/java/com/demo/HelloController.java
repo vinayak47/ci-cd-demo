@@ -9,6 +9,7 @@ public class HelloController {
 	@GetMapping("/hello")
     public String hello() {
 		//hello java
+		//writing controller for practice.
         return "Hello from CI/CD pipeline!";
     }
 }
