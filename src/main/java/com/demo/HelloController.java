@@ -10,6 +10,6 @@ public class HelloController {
     public String hello() {
 		//hello java
 		//writing controller for practice.
-        return "Hello from CI/CD pipeline!";
+        return "Hello from CI/CD pipeline done !!!!";
     }
 }
